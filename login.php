@@ -5,3 +5,5 @@
   echo "this is the second commit";
 
   echo "this is the fifth commit";
+
+  echo "this is the sixed commit";
